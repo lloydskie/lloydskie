@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">My Projects:</h3>
 <p align="left">
-  - ⚡ https://mubiee.pages.dev/
-  - ⚡ https://lloydskiee.pages.dev/
-  - ⚡ https://shopperoo.pages.dev/
-  - ⚡ https://academiapro.pages.dev/
-  - ⚡ https://eals-learning-hub.pages.dev/
-  - ⚡ https://jezzyshop.pages.dev/
-  - ⚡ https://citedept.pages.dev/
-  - ⚡ https://lloydskie-quijano.pages.dev/
+  - ⚡ https://mubiee.pages.dev/ <br>
+  - ⚡ https://lloydskiee.pages.dev/ <br>
+  - ⚡ https://shopperoo.pages.dev/ <br>
+  - ⚡ https://academiapro.pages.dev/ <br>
+  - ⚡ https://eals-learning-hub.pages.dev/ <br>
+  - ⚡ https://jezzyshop.pages.dev/ <br>
+  - ⚡ https://citedept.pages.dev/ <br>
+  - ⚡ https://lloydskie-quijano.pages.dev/ <br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
