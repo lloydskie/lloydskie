@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <h3 align="left">My Projects:</h3>
 <p align="left">
   - ⚡ https://mubiee.pages.dev/ <br>
-  - ⚡ https://lloydskiee.pages.dev/ <br>
   - ⚡ https://shopperoo.pages.dev/ <br>
   - ⚡ https://academiapro.pages.dev/ <br>
   - ⚡ https://eals-learning-hub.pages.dev/ <br>
