@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   - ⚡ https://jezzyshop.pages.dev/ <br>
   - ⚡ https://citedept.pages.dev/ <br>
   - ⚡ https://lloydskie-quijano.pages.dev/ <br>
+  - ⚡ https://cyberventure-001.pages.dev/ <br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
