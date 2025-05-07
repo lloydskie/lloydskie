@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydskie&label=Profile%20views&color=0e75b6&style=flat" alt="lloydskie" /> </p>
 
-- 🌱 I’m currently learning **backend development and devops**
-
+- 🌱 I’m currently learning ** development and devops**
 - 📫 How to reach me **dsafjeioruy8439.fwsefj143@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
