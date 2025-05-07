@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydskie&label=Profile%20views&color=0e75b6&style=flat" alt="lloydskie" /> </p>
 
-- 🌱 I’m currently learning ** development and devops**
+- 🌱  I’m into embedded systems automation, web-dev, and cybersec
 - 📫 How to reach me **dsafjeioruy8439.fwsefj143@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/jlqofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jlqofficial" height="30" width="40" /></a>
