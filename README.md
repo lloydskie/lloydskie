@@ -1,7 +1,7 @@
 # 👋 Welcome to Lloydskie's GitHub!
 
 🚀 **About Me**  
-I'm **Lloydskie** – a tech enthusiast passionate about **frontend development**, **cybersecurity**, and **embedded system automation**. I love building sleek web interfaces using **HTML**, **CSS**, and **JavaScript**, while also diving deep into **network monitoring**, **phishing awareness**, and **information gathering** techniques to better understand and secure digital systems.
+I'm **Lloydskie** – a tech enthusiast passionate about **frontend development**, **cybersecurity**, and **embedded system automation**. I love building sleek web interfaces using **HTML**, **CSS**, and **JavaScript**, while also diving deep into **network monitoring**, **phishing**, and **information gathering** techniques to better understand and secure digital systems.
 
 I also enjoy automating things with **Arduino** and exploring the power of **Linux** in both development and security contexts.
 
