@@ -1,45 +1,48 @@
-# 👋 Welcome to Lloydskie's Space!
+# 👋 Welcome to Lloydskie's GitHub!
 
 🚀 **About Me**  
-Hi, I'm **Lloydskie** – a frontend development enthusiast who loves crafting clean, responsive web interfaces using **HTML**, **CSS**, and **JavaScript**. Beyond the browser, I'm passionate about **cybersecurity** and **embedded system automation**, especially with **Arduino** and **Linux**.
+I'm **Lloydskie** – a tech enthusiast passionate about **frontend development**, **cybersecurity**, and **embedded system automation**. I love building sleek web interfaces using **HTML**, **CSS**, and **JavaScript**, while also diving deep into **network monitoring**, **phishing awareness**, and **information gathering** techniques to better understand and secure digital systems.
 
-Whether it's building beautiful user experiences or automating tasks with microcontrollers, I enjoy diving into code and exploring how things work under the hood.
+I also enjoy automating things with **Arduino** and exploring the power of **Linux** in both development and security contexts.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Focus Areas
 
-**Frontend Development**  
+### 💻 Frontend Development  
 - HTML5, CSS3, JavaScript  
-- Responsive Design, UI/UX  
+- Responsive UI Design  
 
-**Cybersecurity**  
-- Ethical Hacking Basics  
-- Network Monitoring with Wireshark  
+### 🛡️ Cybersecurity & OSINT  
+- Network Monitoring 
+- Phishing 
+- Information Gathering & Reconnaissance  
+- Ethical Hacking   
 
-**Embedded & Automation**  
-- Arduino Microcontrollers  
-- Linux-based Automation  
+### 🔧 Embedded Systems & Automation  
+- Arduino Programming  
+- Linux Automation & Shell Scripting  
+- Serial Communication & Sensor Integration  
 
-**Development Tools**  
+### 🧰 Tools I Use  
 - VS Code  
 - Git & GitHub  
-- Serial Monitor  
 - Linux Terminal  
+- Wireshark, Nmap, OSINT Tools  
 
 ---
 
-## 📢 Get Involved
-
-I love collaborating with fellow developers, hobbyists, and security enthusiasts. If you have ideas or just want to geek out over tech, feel free to reach out!
+## 📢 Let's Collaborate  
+I'm always open to teaming up on cool projects—whether it's a web app, a security challenge, or an automation idea. Let’s innovate together!
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
 - 📩 Email: [jlq.quijano@gmail.com](mailto:jlq.quijano@gmail.com)  
 - 🔗 Facebook: [facebook.com/jlqofficial](https://www.facebook.com/jlqofficial/)
 
 ---
 
-✨ Thanks for visiting! Let's build, hack, and automate amazing things together. 🚀
+> 🔍 *“Code. Secure. Automate.”*  
+Thanks for visiting! 💻🛡️⚙️
